@@ -1,0 +1,44 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:aqua;
+display:flex;
+align-items: center;
+justify-content: center;
+
+}
+canvas {
+  display: block;
+}
+h1{
+  color:blueviolet;
+
+  size:100px;
+text-align: center;
+bottom: 100;
+
+
+
+
+
+
+
+
+
+}
+button{
+
+
+padding: 20 px 10 px;
+ background-color: aqua; 
+}
+
+
+body {
+      background-color: cyan;
+      height: 100vh;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
